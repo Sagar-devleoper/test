@@ -1,0 +1,4 @@
+node_modules/
+.uat.env
+.env
+.test.env
